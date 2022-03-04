@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+.general {
+    display: flex;
+    
+}
+.photo {
+    margin: 15px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+h1 {
+    text-align: center;
+}
+span {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+p {
+padding: 10px
+}
+.image1 {
+    border: 1px solid black;
+    margin: 15px;
+}
